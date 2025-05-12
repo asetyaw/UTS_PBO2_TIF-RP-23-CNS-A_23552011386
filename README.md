@@ -33,6 +33,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="">https://github.com/asetyaw/UTS_PBO2_TIF-RP-23-CNS-A_23552011386.git</a></li>
-  <li>Youtube: <a href="">https://youtu.be/6_D-peI8sIE</a></li>
+  <li>Github: <a href="https://github.com/asetyaw/UTS_PBO2_TIF-RP-23-CNS-A_23552011386.git">Github</a></li>
+  <li>Youtube: <a href="https://youtu.be/6_D-peI8sIE">Youtube</a></li>
 </ul>
